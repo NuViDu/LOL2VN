@@ -22,7 +22,7 @@ Chức năng:
 1. Thi thử (Demo:https://thuybeo.herokuapp.com/ontap).
 2. Ôn thi.
 3. Đăng ký làm hồ sơ trực tuyến.
-Ngôn ngữ sử dụng: Html, css, php.
+Ngôn ngữ sử dụng: Html, css.
 Framework: ReactJS.
 
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
