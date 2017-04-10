@@ -23,7 +23,7 @@ Chức năng:
 2. Ôn thi.
 3. Đăng ký làm hồ sơ trực tuyến.
 
-Ngôn ngữ sử dụng: Html, css.
+Ngôn ngữ sử dụng: Html, css , nodeJS
 
 Framework: ReactJS.
 
