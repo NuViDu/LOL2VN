@@ -23,7 +23,7 @@ Chức năng:
 2. Ôn thi.
 3. Đăng ký làm hồ sơ trực tuyến.
 Ngôn ngữ sử dụng: Html, css, php.
-Framework: Laravel, nodejs.
+Framework: ReactJS.
 
 Ứng dụng tham khảo:https://play.google.com/store/apps/details?id=com.rainmastersoft.lythuyetxemay&hl=vi
 Use case: 
