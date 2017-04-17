@@ -12,7 +12,7 @@ Feature: Test online
 
   Scenario: Choose the question
   	  Given a table of numbers of questions
-	  When I click the 2nd box
+	  When I click the box with number 2
 	  Then I see the 2nd question
 	  
   Scenario: Do the test
