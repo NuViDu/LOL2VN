@@ -1,5 +1,5 @@
 Feature: Test online
-	In order to test my knowledge
+	In order to test my self
 	As an user
 	I want to do the test
 	
@@ -17,7 +17,7 @@ Feature: Test online
 	  
   Scenario: Do the test
 	  Given A question
-	  When I click one of the answer
+	  When I click some answers 
           And Click "next" button
 	  Then I see the next question
 	  
